@@ -2,4 +2,4 @@
 使用jQuery，和风api显示天气
 显示天气应用
 
-![pic]("https://github.com/quiet-mouse/weather/demo.png")
+![pic](https://github.com/quiet-mouse/weather/demo.png)
