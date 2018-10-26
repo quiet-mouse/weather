@@ -60,7 +60,7 @@
 	padding: 2px 10px;
 	background-color: rgba(255,255,255,0.3);
 	overflow-x: hidden;
-	overflow-y: scroll;
+	overflow-y: auto;
 	box-shadow: 1px 1px 1px #888;
 }
 .weather-todayotherinfo h5{
